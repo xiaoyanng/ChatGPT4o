@@ -13,3 +13,4 @@ More features coming soon!
 * Follow me on Twitter: https://twitter.com/yanng404
 * GPTsLink: https://www.gptslink.xyz
 * UdioAiMusic: https://udioaimusic.com
+* Viggle AI: https://www.viggleai.net
